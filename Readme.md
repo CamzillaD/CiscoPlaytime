@@ -1,3 +1,3 @@
-This is a readme file 
+Playtime for Group 6
 =====================
 
